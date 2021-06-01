@@ -6,6 +6,9 @@
 <img alt="Discord" src="https://img.shields.io/discord/731520035717251142?color=%238800FF&label=Discord%20Server"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Fur_Devs?label=Follow%20FurDevs%21&logoColor=%238800ff&style=social">
 </div>
 
+## WARNING
+Dis be a TS rewrite still in progress. Look into [TODO.md](./TODO.md)
+
 ## About
 
 FurDevs Discord Bot is a Multipurpose Discord Bot  for the [FurDevs Discord Server](https://discord.gg/JABY6Htnqt)
